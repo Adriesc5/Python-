@@ -1,0 +1,143 @@
+[
+    {
+      "universidad": "Universidad Nacional Autónoma de México",
+      "ubicacion": "Ciudad de México, México",
+      "fundacion": 1551,
+      "num_estudiantes": 346000,
+      "ranking_mundial": 100
+    },
+    {
+      "universidad": "Universidad de Buenos Aires",
+      "ubicacion": "Buenos Aires, Argentina",
+      "fundacion": 1821,
+      "num_estudiantes": 285000,
+      "ranking_mundial": 200
+    },
+    {
+      "universidad": "Universidad de São Paulo",
+      "ubicacion": "São Paulo, Brasil",
+      "fundacion": 1934,
+      "num_estudiantes": 97000,
+      "ranking_mundial": 150
+    },
+    {
+      "universidad": "Universidad Nacional de Colombia",
+      "ubicacion": "Bogotá, Colombia",
+      "fundacion": 1867,
+      "num_estudiantes": 52000,
+      "ranking_mundial": 250
+    },
+    {
+      "universidad": "Universidad de Chile",
+      "ubicacion": "Santiago, Chile",
+      "fundacion": 1842,
+      "num_estudiantes": 38000,
+      "ranking_mundial": 180
+    },
+    {
+      "universidad": "Universidad de San Carlos de Guatemala",
+      "ubicacion": "Ciudad de Guatemala, Guatemala",
+      "fundacion": 1676,
+      "num_estudiantes": 85000,
+      "ranking_mundial": 300
+    },
+    {
+      "universidad": "Universidad de Costa Rica",
+      "ubicacion": "San José, Costa Rica",
+      "fundacion": 1940,
+      "num_estudiantes": 42000,
+      "ranking_mundial": 280
+    },
+    {
+      "universidad": "Universidad Nacional Mayor de San Marcos",
+      "ubicacion": "Lima, Perú",
+      "fundacion": 1551,
+      "num_estudiantes": 60000,
+      "ranking_mundial": 220
+    },
+    {
+      "universidad": "Universidad Nacional de Córdoba",
+      "ubicacion": "Córdoba, Argentina",
+      "fundacion": 1613,
+      "num_estudiantes": 46000,
+      "ranking_mundial": 270
+    },
+    {
+      "universidad": "Universidad de la República",
+      "ubicacion": "Montevideo, Uruguay",
+      "fundacion": 1849,
+      "num_estudiantes": 51000,
+      "ranking_mundial": 260
+    },
+    {
+      "universidad": "Universidad de Los Andes",
+      "ubicacion": "Bogotá, Colombia",
+      "fundacion": 1948,
+      "num_estudiantes": 38000,
+      "ranking_mundial": 180
+    },
+    {
+      "universidad": "Pontificia Universidad Católica de Chile",
+      "ubicacion": "Santiago, Chile",
+      "fundacion": 1888,
+      "num_estudiantes": 32000,
+      "ranking_mundial": 230
+    },
+    {
+      "universidad": "Universidad Nacional de La Plata",
+      "ubicacion": "La Plata, Argentina",
+      "fundacion": 1905,
+      "num_estudiantes": 40000,
+      "ranking_mundial": 290
+    },
+    {
+      "universidad": "Universidad Nacional de Rosario",
+      "ubicacion": "Rosario, Argentina",
+      "fundacion": 1968,
+      "num_estudiantes": 35000,
+      "ranking_mundial": 310
+    },
+    {
+      "universidad": "Universidad de Costa Rica",
+      "ubicacion": "San José, Costa Rica",
+      "fundacion": 1843,
+      "num_estudiantes": 44000,
+      "ranking_mundial": 320
+    },
+    {
+      "universidad": "Universidad Simón Bolívar",
+      "ubicacion": "Caracas, Venezuela",
+      "fundacion": 1967,
+      "num_estudiantes": 38000,
+      "ranking_mundial": 330
+    },
+    {
+      "universidad": "Universidad de la Habana",
+      "ubicacion": "La Habana, Cuba",
+      "fundacion": 1728,
+      "num_estudiantes": 60000,
+      "ranking_mundial": 340
+    },
+    {
+      "universidad": "Universidad Nacional de Ingeniería",
+      "ubicacion": "Lima, Perú",
+      "fundacion": 1876,
+      "num_estudiantes": 30000,
+      "ranking_mundial": 350
+    },
+    {
+      "universidad": "Universidad Central de Venezuela",
+      "ubicacion": "Caracas, Venezuela",
+      "fundacion": 1721,
+      "num_estudiantes": 54000,
+      "ranking_mundial": 360
+    },
+    {
+      "universidad": "Universidad Nacional de Asunción",
+      "ubicacion": "Asunción, Paraguay",
+      "fundacion": 1889,
+      "num_estudiantes": 42000,
+      "ranking_mundial": 370
+    }
+  ]
+  
